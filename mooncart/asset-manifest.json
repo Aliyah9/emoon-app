@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.52a68e30.css",
+    "main.js": "./static/js/main.5812e7b8.js",
+    "static/js/787.e8a3bb20.chunk.js": "./static/js/787.e8a3bb20.chunk.js",
+    "static/media/phone-with-black-friday-inscription-table.jpg": "./static/media/phone-with-black-friday-inscription-table.5493d104a4accd6843b6.jpg",
+    "static/media/laptop-near-tags-shopping-trolley-packets.jpg": "./static/media/laptop-near-tags-shopping-trolley-packets.2dbc9e5631ad6ebe4059.jpg",
+    "static/media/online-shopping-shipping-internet-commerce-concept.jpg": "./static/media/online-shopping-shipping-internet-commerce-concept.b289b008978deeb91d75.jpg",
+    "static/media/rm222-mind-24.jpg": "./static/media/rm222-mind-24.e803077c0abe0229bb7b.jpg",
+    "static/media/pexels-pixabay-259200.jpg": "./static/media/pexels-pixabay-259200.c94f88f2559ac46776e4.jpg",
+    "static/media/pexels-andrea-piacquadio-3769747.jpg": "./static/media/pexels-andrea-piacquadio-3769747.58439ad82aecd8b254c4.jpg",
+    "static/media/pexels-monstera-5849559.jpg": "./static/media/pexels-monstera-5849559.63bc16e7a2ca42dce086.jpg",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/logo-main-removebg-preview.png": "./static/media/logo-main-removebg-preview.3da87398ed55f39bd45b.png",
+    "static/media/monkey.png": "./static/media/monkey.acd0b7329cefdab7f48b.png",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "./index.html",
+    "main.52a68e30.css.map": "./static/css/main.52a68e30.css.map",
+    "main.5812e7b8.js.map": "./static/js/main.5812e7b8.js.map",
+    "787.e8a3bb20.chunk.js.map": "./static/js/787.e8a3bb20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52a68e30.css",
+    "static/js/main.5812e7b8.js"
+  ]
+}

@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body{
+  background-image: url('./Images/rm222-mind-24.jpg');
+  /* background-size: 100%; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+/* Custom styles for slider */
+.custom-slider-wrapper {
+  width: 80%; /* Adjust the width of the slider wrapper */
+  margin: 0 auto;
+}
+/* Style for slider dots (bullets) */
+.slick-dots li button:before {
+  color: #000; /* Change dot color */
+  font-size: 16px; /* Increase dot size */
+}
+
+/* Style for slider arrows (navigation buttons) */
+.slick-prev:before, .slick-next:before {
+  font-size: 24px; /* Increase arrow size */
+  color: grey; /* Change arrow color */
+  padding-right: 20 px;
+}
+/* Style for slides */
+.slide {
+  text-align: center;
+}
+
+/* Style for images within slides */
+.slide img {
+  max-width: 100%; /* Set maximum width for the images */
+  height: auto; /* Maintain aspect ratio */
+  border: 1px solid #ccc; /* Add borders */
+  border-radius: 5px; /* Add border-radius for rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
+  padding: 5px; /* Add padding around the images */
+}
+
+
+
+nav, footer{
+
+  background-color: rgb(from color r g b);
+}
+a{
+  text-decoration: none;
+}
+.items a{
+  color:var(--bs-primary-text-emphasis)!important;
+}
+
+ 
+
+
