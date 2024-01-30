@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/emoon-app/static/css/main.82805506.css",
-    "main.js": "/emoon-app/static/js/main.de6df007.js",
+    "main.js": "/emoon-app/static/js/main.e1aab5df.js",
     "static/js/787.e8a3bb20.chunk.js": "/emoon-app/static/js/787.e8a3bb20.chunk.js",
     "static/media/phone-with-black-friday-inscription-table.jpg": "/emoon-app/static/media/phone-with-black-friday-inscription-table.5493d104a4accd6843b6.jpg",
     "static/media/laptop-near-tags-shopping-trolley-packets.jpg": "/emoon-app/static/media/laptop-near-tags-shopping-trolley-packets.2dbc9e5631ad6ebe4059.jpg",
@@ -26,11 +26,11 @@
     "static/media/slick.woff": "/emoon-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/emoon-app/index.html",
     "main.82805506.css.map": "/emoon-app/static/css/main.82805506.css.map",
-    "main.de6df007.js.map": "/emoon-app/static/js/main.de6df007.js.map",
+    "main.e1aab5df.js.map": "/emoon-app/static/js/main.e1aab5df.js.map",
     "787.e8a3bb20.chunk.js.map": "/emoon-app/static/js/787.e8a3bb20.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82805506.css",
-    "static/js/main.de6df007.js"
+    "static/js/main.e1aab5df.js"
   ]
 }
